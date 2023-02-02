@@ -1,0 +1,10 @@
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/namer_app
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
