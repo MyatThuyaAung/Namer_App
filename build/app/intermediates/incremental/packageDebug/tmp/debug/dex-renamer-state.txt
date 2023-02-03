@@ -1,4 +1,4 @@
-#Sun Jan 29 14:04:18 MMT 2023
-base.0=/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Feb 03 09:53:21 MMT 2023
+base.0=/home/hiroshi/Workspace/Flutter/Projects/Namer-App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/hiroshi/Workspace/Flutter/Projects/namer_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/hiroshi/Workspace/Flutter/Projects/Namer-App/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/hiroshi/Workspace/Flutter/Projects/namer_app/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/hiroshi/Workspace/Flutter/Projects/Namer-App/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
